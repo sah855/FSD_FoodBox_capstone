@@ -1,0 +1,15 @@
+.logoRegister {
+	width: 25%;
+	height: auto;
+}
+
+.link, .link:visited {
+	color: #1E90FF;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+
+.link:hover {
+  color: #00008B;
+}
